@@ -8,7 +8,7 @@ The application works by creating a series of text files, writing some text to t
 
 There are 3 versions of the Malware:
 - Safezone - Completely harmless, creates max of 5 files that can be changed with a debug mode. User Error handling and much more saftey features for testing.
-- Eclipse - Mediocre harmfulness. Creats unlimited files but deletes them after closing the program **NOT GUARENTEED TO DELETE THE FILES**
+- Eclipse - Mediocre harmfulness. Creates unlimited files but deletes them after closing the program **NOT GUARENTEED TO DELETE THE FILES**
 - Ector - True Malware form. Creates unlimited files taking up all of computer's hard drive. Supports Official plugins.
 
 ### Usage
