@@ -24,6 +24,4 @@ The Safezone (and Eclipse i think?) includes a "debug mode" that restricts its a
 In debug mode, the program will print out additional information about what it's doing, which can be helpful for understanding its behaviour.
 
 ### Safety Precautions
-Even though this program is harmless in its current form, it is still important to use it responsibly. Do not modify the program to do anything harmful, and do not run the program on a system without the necessary permissions.
-
-Always be careful when working with files, especially if you are deleting them. Make sure to back up any important data before running the program, and only run the program in a safe environment.
+Always be careful when working with Malware examples, especially if you are debugging them. Make sure to back up any important data before running the program, and only run the program in a safe environment.
